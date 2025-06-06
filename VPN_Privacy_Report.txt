@@ -1,0 +1,36 @@
+VPN Privacy Report
+
+This document outlines the use of a free VPN client to explore secure browsing and privacy protection.
+
+---
+Tools Used:
+
+VPN Service Used: ProtonVPN (Free Tier)
+OS: Windows
+Browser: Firefox
+
+---
+Steps Followed:
+
+1. Visited https://protonvpn.com and chose the Free Plan. [Screenshot 1]
+2. Signed up and installed the ProtonVPN desktop client. [Screenshot 2]
+3. Logged into the application.
+4. Connected to a free VPN server. [Screenshot 3]
+5. Visited https://whatismyipaddress.com and verified the changed IP address. [Screenshot 4]
+6. Confirmed secure connection to a website https://duckduckgo.com. [Screenshot 5]
+7. Disconnected VPN and observed original IP. [Screenshot 6]
+
+---
+Encryption & Privacy Features:
+
+- AES-256 encryption with OpenVPN and WireGuard.
+- No-logs policy ensures no activity is stored.
+- Tunneling and DNS leak protection.
+
+---
+Summary:
+
+Using a VPN provides private, encrypted communication by masking IP addresses and protecting traffic from surveillance. While free VPNs may have limits in speed or availability, they serve as valuable tools for improving online privacy.
+
+---
+
